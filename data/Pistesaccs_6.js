@@ -1,0 +1,1 @@
+var json_Pistesaccs_6 = {"type":"FeatureCollection","name":"Pistesaccs_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"Longueur":0.01,"Balises":"2"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.524445246343623,12.312462690151861],[-1.524363808060493,12.312460047404414]]]}}]}
